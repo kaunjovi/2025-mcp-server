@@ -28,5 +28,9 @@ Hello from 2025-mcp-server!
 ```
 
 
+uv add langchain-groq langchain-mcp-adapters mcp 
+
+## Welcome to FastMCP 2.0!
+1. https://gofastmcp.com/getting-started/welcome
 
 
