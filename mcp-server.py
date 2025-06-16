@@ -7,4 +7,5 @@ def greet(name: str) -> str:
     return f"Hello world! {name}"
 
 if __name__ == "__main__":
-    mcp.run() 
+    # mcp.run() # what is the default? stdio ? 
+    mcp.run( transport= "stdio") 

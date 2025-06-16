@@ -33,4 +33,10 @@ uv add langchain-groq langchain-mcp-adapters mcp
 ## Welcome to FastMCP 2.0!
 1. https://gofastmcp.com/getting-started/welcome
 
+## How can you connect to your MCP server tool ? 
+
+1. **mcp.run( transport= "stdio")** 
+1. Use the standard input and output ( stdin stdout) io. 
+1. Run the server in command prompt. 
+1. Great for local testing. 
 
