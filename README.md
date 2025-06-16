@@ -40,3 +40,11 @@ uv add langchain-groq langchain-mcp-adapters mcp
 1. Run the server in command prompt. 
 1. Great for local testing. 
 
+
+## LangGraph Trainining 
+
+1. https://academy.langchain.com/courses/take/intro-to-langgraph/lessons/58238107-course-overview
+
+## [Build Smarter AI Agents for Free Using LangGraph & Ollama](https://medium.com/data-science-collective/build-smarter-ai-agents-for-free-using-langgraph-ollama-9096ad7952aa)
+
+
